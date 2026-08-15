@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:2C5364,50:00C6FF,75:7B2FF7,100:F72585&height=280&section=header&text=Soumojit%20Sarkar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Future%20AI%2FML%20Engineer&descAlignY=55&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumojit+Sarkar;%F0%9F%93%8A+Turning+Data+Into+Stories;%F0%9F%A4%96+Future+AI%2FML+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumojit+Sarkar;%F0%9F%93%8A+Turning+Data+Into+Stories;%F0%9F%A4%96+Future+AI%2FML+Engineer" />
 
 <a href="https://www.linkedin.com/in/soumo-sarkar-a72496372/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:soumo0155@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -199,23 +199,11 @@ me.say_hi()
 
 ---
 
-## 🧊 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Soumo444/Soumo444/output/github-contribution-grid-snake-3d.svg" width="100%"/>
-
-<sub>⚙️ Generated automatically via GitHub Actions — see setup note at the bottom</sub>
-
-</div>
-
----
-
 ## 📈 Detailed Metrics
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/Soumo444?template=classic&base.header=0&base.activity=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata"/>
+<img src="https://metrics.lecoq.io/Soumo444?template=classic&base=header,activity&config.timezone=Asia%2FKolkata"/>
 
 </div>
 
@@ -253,10 +241,12 @@ graph LR
 <!--
 SETUP NOTES (delete this comment block once done — GitHub won't render it anyway):
 
-1. Snake contribution graph (animated + 3D) needs a one-time GitHub Action in this repo:
-   https://github.com/Platane/snk#-getting-started  → gives you the "grid-snake-dark.svg" workflow
-   https://github.com/yoshi389111/github-profile-3d-contrib → gives you the "grid-snake-3d.svg" workflow
-   Without these two Actions set up, those two images will show as broken.
+1. Snake contribution graph (the animated one near the top) currently points to Platane's own demo repo,
+   so it shows HIS animation, not your real contribution graph. To make it show YOUR graph, add this
+   free one-time GitHub Action to your Soumo444/Soumo444 repo:
+   https://github.com/Platane/snk#-getting-started
+   Once set up, replace the image URL with:
+   https://raw.githubusercontent.com/Soumo444/Soumo444/output/github-contribution-grid-snake-dark.svg
 
 2. "Buy me a coffee" badge points to buymeacoffee.com/soumojit — update the URL if that's not your real handle, or delete the badge if you don't want it.
 
