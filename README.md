@@ -6,17 +6,24 @@
 
 <a href="https://www.linkedin.com/in/soumo-sarkar-a72496372/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:soumo0155@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/soumo007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/soum077/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Soumo444&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Soumo444?label=Followers&style=for-the-badge&color=7B2FF7"/>
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=F72585&label=Repo%20Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSoumo444%2Frepos&suffix=%20★"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 <br/><br/>
 
+<!-- Animated snake eating the contribution graph -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/>
+
+<!-- Rotating quote of the day -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -165,6 +172,28 @@ me.say_hi()
 
 ---
 
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Soumo444/Soumo444/output/github-contribution-grid-snake-3d.svg" width="100%"/>
+
+<sub>⚙️ Generated automatically via GitHub Actions — see setup note at the bottom</sub>
+
+</div>
+
+---
+
+## 📈 Detailed Metrics
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/Soumo444?template=classic&base.header=0&base.activity=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata"/>
+
+</div>
+
+---
+
 ## 📌 My Journey
 
 <div align="center">
@@ -186,6 +215,23 @@ graph LR
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=%E2%AD%90+Thanks+for+visiting+my+profile!;%F0%9F%90%8D+Keep+Coding+%E2%80%A2+Keep+Learning+%E2%80%A2+Keep+Growing;%F0%9F%9A%80+See+you+in+the+next+project!"/>
 
+<br/><br/>
+
+<a href="https://www.buymeacoffee.com/soumojit"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,25:7B2FF7,50:0072FF,75:00C6FF,100:0F2027&height=150&section=footer"/>
 
 </div>
+
+<!--
+SETUP NOTES (delete this comment block once done — GitHub won't render it anyway):
+
+1. Snake contribution graph (animated + 3D) needs a one-time GitHub Action in this repo:
+   https://github.com/Platane/snk#-getting-started  → gives you the "grid-snake-dark.svg" workflow
+   https://github.com/yoshi389111/github-profile-3d-contrib → gives you the "grid-snake-3d.svg" workflow
+   Without these two Actions set up, those two images will show as broken.
+
+2. "Buy me a coffee" badge points to buymeacoffee.com/soumojit — update the URL if that's not your real handle, or delete the badge if you don't want it.
+
+3. Everything else (typing SVG, stats, trophies, quote card, metrics) works automatically off your GitHub username, no setup needed.
+-->
