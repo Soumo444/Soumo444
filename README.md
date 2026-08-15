@@ -40,7 +40,7 @@ class Soumojit:
         self.role = "Data Analyst | Python Developer"
         self.location = "India 🇮🇳"
         self.focus = ["Data Analytics", "Artificial Intelligence"]
-        self.currently_learning = ["Advanced SQL", "Power BI", "Machine Learning"]
+        self.currently_learning = ["Scikit-learn", "XGBoost", "TensorFlow", "Advanced SQL", "Power BI"]
         self.fun_fact = "I turn messy spreadsheets into stories worth telling"
 
     def say_hi(self):
@@ -126,15 +126,42 @@ me.say_hi()
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning — AI / ML Track
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql&perline=5"/>
 
 <br/><br/>
 
-`Advanced SQL` • `Python for Data Analysis` • `Power BI` • `Data Visualization` • `Machine Learning` • `Artificial Intelligence`
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-0B6E4F?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<br/><br/>
+
+</div>
+
+| Category | Skills / Models |
+|---|---|
+| 🧮 **Core Libraries** | `NumPy` `Pandas` `Matplotlib` `Seaborn` |
+| 🤖 **ML Framework** | `Scikit-learn` `XGBoost` |
+| 📐 **Regression Models** | Linear Regression, Ridge, Lasso, Polynomial Regression |
+| 🌳 **Tree-Based Models** | Decision Tree, Random Forest, Gradient Boosting, XGBoost |
+| 🧠 **Classification** | Logistic Regression, KNN, SVM, Naive Bayes |
+| 🧩 **Clustering** | K-Means, Hierarchical Clustering |
+| 🛠️ **Model Workflow** | Feature Engineering, Train/Test Split, Cross-Validation, Hyperparameter Tuning (GridSearchCV) |
+| 📊 **Evaluation** | Accuracy, Precision/Recall, F1-Score, RMSE, R², Confusion Matrix |
+| 🗄️ **Foundations** | Advanced SQL • Power BI • Data Visualization |
+
+<div align="center">
+
+`Advanced SQL` • `Power BI` • `Data Visualization` • `Machine Learning` • `Deep Learning (Intro)` • `Artificial Intelligence`
 
 </div>
 
