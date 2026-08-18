@@ -1,274 +1,244 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:203A43,60:2C5364,100:00C6FF&height=260&section=header&text=Soumojit%20Sarkar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=56&descSize=19&descColor=E6F7FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,20:203A43,40:2C5364,60:00C6FF,80:7B2FF7,100:F72585&height=290&section=header&text=Soumojit%20Sarkar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=56&descSize=20&descColor=E8F9FF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C6FF&center=true&vCenter=true&width=850&height=45&lines=Turning+Data+Into+Insights+%F0%9F%93%8A;Building+Practical+Python+Projects+%F0%9F%90%8D;Learning+Machine+Learning+Step+by+Step+%F0%9F%A4%96;Exploring+AI+%26+Data+Engineering+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumojit+Sarkar;Turning+Data+Into+Stories+%F0%9F%93%8A;Building+With+Python+%F0%9F%90%8D;Learning+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+Today+For+The+Future+%F0%9F%9A%80"/>
 
-<br>
+<br/>
 
 <a href="https://www.linkedin.com/in/soumo-sarkar-a72496372/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:soumo0155@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Soumo444">
-<img src="https://img.shields.io/badge/GitHub-Soumo444-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/soum077/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="mailto:soumo0155@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/soum077/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Soumo444">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Soumo444&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Soumo444?label=Followers&style=for-the-badge&color=7B2FF7"/>
+
+<img src="https://img.shields.io/github/stars/Soumo444?label=Stars&style=for-the-badge&color=F72585"/>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Soumojit
+<div align="center">
 
-I'm a **Data Analytics and Python enthusiast** focused on turning raw data into meaningful business insights and building practical data-driven applications.
+## 💭 Entrepreneur Mindset
 
-I enjoy working across the journey from:
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-**Raw Data → SQL → Python → Analysis → Visualization → Machine Learning → Deployment**
+<br/>
+
+### 🚀 Build. Learn. Fail. Improve. Repeat.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ```python
 class Soumojit:
 
     def __init__(self):
+
         self.name = "Soumojit Sarkar"
         self.role = "Data Analyst | Python Developer"
         self.location = "India 🇮🇳"
 
-        self.interests = [
+        self.focus = [
             "Data Analytics",
-            "Python",
-            "Machine Learning",
             "Artificial Intelligence",
+            "Machine Learning",
             "Business Intelligence"
         ]
 
-        self.tools = [
-            "Python",
-            "SQL",
-            "Power BI",
-            "Pandas",
-            "Scikit-learn"
+        self.learning = [
+            "Advanced SQL",
+            "Machine Learning",
+            "Scikit-learn",
+            "XGBoost",
+            "Power BI"
         ]
 
-    def current_goal(self):
-        return "Build real-world AI & Data projects 🚀"
+        self.mindset = "Learn. Build. Improve. 🚀"
+
+    def introduce(self):
+        return "Turning data into meaningful insights."
+
+    def future_goal(self):
+        return "Become a professional AI/ML Engineer."
 
 
 me = Soumojit()
 
-print(me.current_goal())
+print(me.introduce())
+print(me.future_goal())
 ```
 
-### 🚀 What I'm Doing
+### 🔭 Currently Working On
 
-* 📊 Building real-world **Data Analytics projects**
-* 🐍 Developing projects using **Python**
-* 🗄️ Working with **SQL & MySQL**
-* 📈 Creating interactive **Power BI dashboards**
-* 🤖 Learning **Machine Learning**
-* 🧠 Exploring **Artificial Intelligence**
-* 🛠️ Building portfolio projects that solve practical problems
+* 📊 Real-world **Data Analytics projects**
+* 🐍 Python-based applications
+* 📈 Interactive Power BI dashboards
+* 🗄️ SQL & MySQL data projects
+* 🤖 Machine Learning projects
+* 🧠 Exploring Artificial Intelligence
+
+### 🎯 My Mission
+
+> **Turn data into decisions, ideas into products, and learning into impact.**
+
+<br clear="right"/>
 
 ---
 
-# 🧰 Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-### Programming & Data
+### 💻 Development
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter&perline=6"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+### 📊 Data & Analytics
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br><br>
-
-### Analytics & Business Intelligence
-
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<br><br>
+<br/><br/>
 
-### Machine Learning
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&perline=4"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-0B6E4F?style=for-the-badge&logo=xgboost&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </div>
 
 ---
 
-# 📊 What I Work With
-
-| Area                | Technologies                             |
-| ------------------- | ---------------------------------------- |
-| 🐍 Programming      | Python                                   |
-| 🗄️ Database        | MySQL, SQL                               |
-| 📊 Data Analysis    | Pandas, NumPy                            |
-| 📈 Visualization    | Matplotlib, Power BI, Excel              |
-| 🤖 Machine Learning | Scikit-learn, XGBoost                    |
-| 🧹 Data Preparation | Data Cleaning, EDA, Feature Engineering  |
-| 📐 Statistics       | Descriptive Statistics, Model Evaluation |
-| 🔧 Development      | Git, GitHub, VS Code, Jupyter            |
-
----
-
-# 🚀 Featured Projects
+# 🧠 What I'm Learning
 
 <div align="center">
 
-### 🏦 Enterprise Banking Fraud Intelligence Platform
-
-**End-to-end banking fraud analytics & machine learning project**
-
-Analyzing transaction patterns, identifying suspicious behavior, engineering fraud features, and building machine-learning models for fraud detection.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `SQL` `Scikit-learn` `Power BI` `Machine Learning`
-
-<br>
-
-### 🛡️ ScamShield — Scam Detection System
-
-**Machine-learning based scam detection project**
-
-A practical ML application designed to analyze suspicious messages and classify them using a trained machine-learning model and API.
-
-**Tech Stack**
-
-`Python` `Scikit-learn` `TF-IDF` `FastAPI` `Joblib` `Machine Learning`
-
-<br>
-
-### ⚽ FIFA World Cup 2026 Analytics
-
-**Football data analytics & visualization project**
-
-Exploring player performance, teams, goals, assists, market value, and tournament-related statistics through Python and Power BI.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Power BI` `SQL`
-
-<br>
-
-### 🍽️ Zomato Restaurant Analysis
-
-**Exploratory data analysis project**
-
-Analyzing restaurant data to discover trends involving ratings, locations, cuisines, pricing, and business performance.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Matplotlib`
-
-<br>
-
-### 📦 Supply Chain Analytics Dashboard
-
-**Business intelligence dashboard**
-
-Analyzing sales, logistics, operational performance, and supply-chain KPIs through an interactive dashboard.
-
-**Tech Stack**
-
-`Excel` `Power BI` `Data Analysis`
+```text
+                    ┌──────────────────┐
+                    │   DATA ANALYTICS │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │      PYTHON     │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │  MACHINE        │
+                    │  LEARNING       │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │  ARTIFICIAL      │
+                    │  INTELLIGENCE    │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │   AI ENGINEER    │
+                    └──────────────────┘
+```
 
 </div>
 
----
-
-# 🧠 Machine Learning Journey
-
-```text
-                 DATA ANALYTICS
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   Data Cleaning │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │      EDA        │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Feature         │
-              │ Engineering     │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Machine         │
-              │ Learning        │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Model           │
-              │ Evaluation      │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Deployment      │
-              └────────┬────────┘
-                       │
-                       ▼
-                    🚀 AI
-```
-
-### Models I'm Learning
-
-* Linear Regression
-* Logistic Regression
-* Decision Trees
-* Random Forest
-* Gradient Boosting
-* XGBoost
-* K-Nearest Neighbors
-* Support Vector Machines
-* Naive Bayes
-* K-Means Clustering
-
-### ML Workflow
-
-`Data Collection → Cleaning → EDA → Feature Engineering → Training → Evaluation → Tuning → Deployment`
+| 🧩 Area          | 🚀 Skills                                    |
+| ---------------- | -------------------------------------------- |
+| 🐍 Programming   | Python                                       |
+| 🗄️ Database     | SQL • MySQL                                  |
+| 📊 Analytics     | Pandas • NumPy                               |
+| 📈 Visualization | Power BI • Matplotlib • Excel                |
+| 🤖 ML            | Scikit-learn • XGBoost                       |
+| 🧠 AI            | Machine Learning • AI Applications           |
+| 🛠️ Workflow     | EDA • Feature Engineering • Model Evaluation |
 
 ---
 
-# 📈 GitHub Activity
+# 📚 Machine Learning Knowledge
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soumo444&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+`Linear Regression`
+`Logistic Regression`
+`Decision Tree`
+`Random Forest`
+`Gradient Boosting`
+`XGBoost`
+`KNN`
+`SVM`
+`Naive Bayes`
+`K-Means`
 
-<br><br>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumo444&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🔬 ML Workflow
 
-<br><br>
+```text
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Exploratory Data Analysis
+      ↓
+Feature Engineering
+      ↓
+Model Training
+      ↓
+Model Evaluation
+      ↓
+Hyperparameter Tuning
+      ↓
+Deployment
+      ↓
+🚀 Real-World AI Application
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Soumo444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumo444&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Soumo444&theme=tokyonight&hide_border=true"/>
 
@@ -276,7 +246,7 @@ Analyzing sales, logistics, operational performance, and supply-chain KPIs throu
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Activity
 
 <div align="center">
 
@@ -286,91 +256,135 @@ Analyzing sales, logistics, operational performance, and supply-chain KPIs throu
 
 ---
 
-# 🎯 2026 Goals
-
-```text
-☑ Strengthen Python
-☑ Master SQL
-☑ Build Data Analytics Projects
-☑ Create Power BI Dashboards
-☐ Master Machine Learning
-☐ Learn Advanced Feature Engineering
-☐ Build Production ML APIs
-☐ Explore Deep Learning
-☐ Build AI-powered Applications
-☐ Contribute to Open Source
-```
-
----
-
-# 🌱 Currently Learning
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql&perline=5"/>
-
-<br><br>
-
-`Advanced SQL`
-  •  
-`Machine Learning`
-  •  
-`Feature Engineering`
-  •  
-`XGBoost`
-  •  
-`Deep Learning`
-  •  
-`AI Applications`
+<img src="https://github-profile-trophy.vercel.app/?username=Soumo444&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 </div>
 
 ---
 
-# 💡 My Development Philosophy
+# 📈 My Growth Journey
 
-> **Learn → Build → Break → Debug → Improve → Repeat.**
+<div align="center">
 
-I believe the best way to learn technology is by building projects that solve real problems.
+```mermaid
+graph LR
+
+A[💻 Coding] --> B[📊 Data]
+B --> C[📈 Insights]
+C --> D[🤖 ML]
+D --> E[🧠 AI]
+E --> F[🚀 Products]
+F --> A
+```
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Status | Goal                               |
+| ------ | ---------------------------------- |
+| 🟢     | Strengthen Python                  |
+| 🟢     | Master SQL                         |
+| 🟢     | Build Data Analytics Projects      |
+| 🟢     | Create Power BI Dashboards         |
+| 🟡     | Master Machine Learning            |
+| 🟡     | Learn Advanced Feature Engineering |
+| 🟡     | Build ML APIs                      |
+| 🔵     | Explore Deep Learning              |
+| 🔵     | Build AI Applications              |
+| 🔵     | Contribute to Open Source          |
+
+</div>
+
+---
+
+# 💡 My Philosophy
+
+<div align="center">
+
+### `"Don't just learn technology. Build with it."`
+
+<br>
+
+### 💻 Learn
+
+### ↓
+
+### 🛠️ Build
+
+### ↓
+
+### 🐛 Fail
+
+### ↓
+
+### 🔧 Debug
+
+### ↓
+
+### 📈 Improve
+
+### ↓
+
+### 🚀 Repeat
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/soumo-sarkar-a72496372/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:soumo0155@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-soumo0155%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Soumo444">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.instagram.com/soum077/">
+<img src="https://img.shields.io/badge/Instagram-@soum077-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+### ⭐ If you like my work, consider giving my repositories a star!
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1500&color=00C6FF&center=true&vCenter=true&width=750&height=40&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=800&height=45&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing;%F0%9F%9A%80+The+Best+Projects+Are+Still+Ahead!"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,35:2C5364,70:203A43,100:0F2027&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,25:7B2FF7,50:0072FF,75:00C6FF,100:0F2027&height=160&section=footer"/>
 
 </div>
 
 <!--
-IMPORTANT:
-For the snake animation to show YOUR contributions, create the GitHub Action
-from the Platane/snk project and generate:
+SNAKE SETUP:
+
+The snake image requires a GitHub Action to generate your contribution animation.
+
+After configuring the action, this URL should work:
 
 https://raw.githubusercontent.com/Soumo444/Soumo444/output/github-contribution-grid-snake-dark.svg
 
-Do not use the demo snake URL from another repository.
+Make sure your repository is named:
+
+Soumo444/Soumo444
+
 -->
