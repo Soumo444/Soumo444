@@ -1,239 +1,287 @@
-<div align="center"><!-- ═══════════════════════════════════════════════════════════════ --><!--                         HERO SECTION                           --><!-- ═══════════════════════════════════════════════════════════════ --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A12,20:0F2027,40:203A43,60:00C6FF,80:7B2FF7,100:F72585&height=320&section=header&text=SOUMOJIT%20SARKAR&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=DATA%20%7C%20PYTHON%20%7C%20AI%20%2F%20ML&descAlignY=53&descSize=20&descColor=E8F9FF"/><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=00F7FF&center=true&vCenter=true&width=850&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Soumojit;I+Turn+Raw+Data+Into+Useful+Insights+%F0%9F%93%8A;I+Build+With+Python+%F0%9F%90%8D;I+Explore+AI+%26+Machine+Learning+%F0%9F%A4%96;I+Learn.+Build.+Break.+Fix.+Repeat.+%F0%9F%9A%80" alt="Typing SVG"/><br/><a href="https://github.com/Soumo444">
-<img src="https://img.shields.io/badge/GitHub-Soumo444-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><br/><br/>
+<div align="center"><!-- ╔══════════════════════════════════════════════════════════╗ --><!--                    SOUMOJIT // 01                         --><!-- ╚══════════════════════════════════════════════════════════╝ --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:0B1324,50:00C6FF,75:6D28D9,100:F72585&height=340&section=header&text=SOUMOJIT%20SARKAR&fontSize=64&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=DATA%20%E2%80%A2%20PYTHON%20%E2%80%A2%20AI%20%E2%80%A2%20ML&descAlignY=53&descSize=21&descColor=DDFBFF"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=55&lines=DATA+%E2%86%92+INSIGHT+%E2%86%92+INTELLIGENCE;Building+with+Python+%F0%9F%90%8D;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+Ideas+Into+Working+Projects+%F0%9F%9A%80;WELCOME+TO+MY+DIGITAL+WORKSPACE+%E2%9A%A1"/><br><img src="https://img.shields.io/badge/STATUS-BUILDING-00F7FF?style=for-the-badge&labelColor=050A12"/>
+<img src="https://img.shields.io/badge/FOCUS-DATA%20%2B%20AI-7B2FF7?style=for-the-badge&labelColor=050A12"/>
+<img src="https://img.shields.io/badge/MINDSET-BUILD%20%26%20LEARN-F72585?style=for-the-badge&labelColor=050A12"/><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Soumo444&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge"/></div>---
+<a href="https://github.com/Soumo444">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a></div>---
 
-⚡ WHO AM I?
+<div align="center">◈ THE PERSON BEHIND THE CODE
 
-class Soumojit:
+"DATA ANALYST" → "PYTHON BUILDER" → "AI/ML EXPLORER"
 
-    def __init__(self):
-        self.name = "Soumojit Sarkar"
-        self.role = "Data Analyst | Python Developer"
-        self.interests = ["Data", "AI", "Machine Learning", "Automation"]
-        self.current_mode = "Learning → Building → Improving"
+</div>┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   NAME       :  Soumojit Sarkar                             │
+│   ROLE       :  Data Analyst / Python Developer             │
+│   INTEREST   :  AI • ML • Automation • Data                 │
+│                                                              │
+│   CURRENTLY  :  Learning → Building → Experimenting         │
+│                                                              │
+│   PRINCIPLE  :  "Don't just learn technology. Build with it."│
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-    def mission(self):
-        return "Turn data into decisions and ideas into working projects."
+<div align="center">I like taking something messy, understanding it,
+and turning it into something useful.
 
-    def mindset(self):
-        return "Don't just learn the technology. Build with it."
+"RAW DATA" → "ANALYSIS" → "INSIGHT" → "INTELLIGENCE"
 
-«I’m not trying to know everything.
-I’m trying to build something better every day. 🚀»
+</div>---
 
----
+⚡ MY DIGITAL ENGINE
 
-🧠 MY TECH STACK
-
-<div align="center">📊 Data & Analytics
-
-<img src="https://skillicons.dev/icons?i=python,mysql,excel" /><br/><br/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>🤖 AI / ML
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-7B2FF7?style=for-the-badge&logo=ai&logoColor=white"/>🛠️ Development
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter,streamlit" /></div>---
-
-🚀 WHAT I'M BUILDING
-
-<table>
+<div align="center"><table>
 <tr>
-<td width="50%">📈 Data Analytics
+<td align="center" width="33%">📊
 
-Turning messy datasets into:
+DATA
 
-- Clean data pipelines
-- Exploratory analysis
-- Business insights
-- Interactive dashboards
-- Data-driven decisions
+Python
+SQL
+Excel
+Power BI
+Pandas
+NumPy
 
-</td><td width="50%">🤖 AI / ML
+</td><td align="center" width="33%">🧠
 
-Currently exploring:
+INTELLIGENCE
 
-- Machine Learning
-- Predictive Analytics
-- Generative AI
-- RAG
-- AI-powered applications
-- Intelligent automation
+Machine Learning
+Scikit-Learn
+Predictive Analytics
+AI
+GenAI
+RAG
+
+</td><td align="center" width="33%">🛠️
+
+BUILD
+
+Git
+GitHub
+VS Code
+Jupyter
+Streamlit
+Automation
 
 </td>
 </tr>
-</table>---
+</table></div>---
 
-🔥 FEATURED PROJECT
+🧬 SKILL MATRIX
 
-<div align="center">🎯 Customer Churn — Business Analytics & ML
+<div align="center"><img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,streamlit&perline=7"/><br><br>
 
-From raw data → analysis → prediction → dashboard
+<img src="https://img.shields.io/badge/PYTHON-CORE-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-DATA-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/POWER%20BI-VISUALS-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111"/>
+<img src="https://img.shields.io/badge/PANDAS-ANALYTICS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMPY-COMPUTE-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br><img src="https://img.shields.io/badge/SCIKIT--LEARN-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/GENAI-EXPLORING-7B2FF7?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-EXPLORING-F72585?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STREAMLIT-APPS-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></div>---
 
-</div>🔍 Workflow
+🚀 FEATURED BUILD
 
-RAW DATA
-   ↓
-DATA CLEANING
-   ↓
-EXPLORATORY DATA ANALYSIS
-   ↓
-SQL ANALYSIS
-   ↓
-MACHINE LEARNING
-   ↓
-MODEL EVALUATION
-   ↓
-POWER BI DASHBOARD
-   ↓
-BUSINESS INSIGHTS
+<div align="center">"01" — CUSTOMER CHURN INTELLIGENCE
 
-📊 Model Performance
+From spreadsheet → machine learning → business decision
 
-Metric| Score
-🎯 Accuracy| 90%
-🔎 Precision| 78%
-📡 Recall| 74%
-⚖️ F1 Score| 76%
-📈 ROC-AUC| 0.86
+</div>             ┌─────────────┐
+             │   RAW DATA  │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │   CLEANING  │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │     EDA     │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │     SQL     │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │   ML MODEL  │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │  PREDICTION │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │  POWER BI   │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │   INSIGHT   │
+             └─────────────┘
 
-<div align="center"><a href="https://github.com/Soumo444">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
+🎯 MODEL SNAPSHOT
+
+<div align="center">METRIC| RESULT
+Accuracy| 90%
+Precision| 78%
+Recall| 74%
+F1 Score| 76%
+ROC-AUC| 0.86
+
+</div><div align="center"><a href="https://customer-churn-business-analysis-vtb7gvwpkvhdrtjpddnz62.streamlit.app/">
+<img src="https://img.shields.io/badge/▶%20LIVE%20APP-00C6FF?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a> 
+
+<a href="https://github.com/Soumo444">
+<img src="https://img.shields.io/badge/⌁%20SOURCE%20CODE-7B2FF7?style=for-the-badge&logo=github&logoColor=white"/>
 </a></div>---
 
-🧩 HOW I THINK
+🌐 MY BUILDING LOOP
 
-<div align="center">         DATA
-          │
-          ▼
-      UNDERSTAND
-          │
-          ▼
-       ANALYZE
-          │
-          ▼
-       BUILD 🛠️
-          │
-          ▼
-      TEST & LEARN
-          │
-          ▼
-       IMPROVE 🔥
-          │
-          └──────────────► REPEAT
+<div align="center">       ╭──────────╮
+       │   IDEA   │
+       ╰────┬─────╯
+            ↓
+       ╭──────────╮
+       │   DATA   │
+       ╰────┬─────╯
+            ↓
+       ╭──────────╮
+       │   CODE   │
+       ╰────┬─────╯
+            ↓
+       ╭──────────╮
+       │   TEST   │
+       ╰────┬─────╯
+            ↓
+       ╭──────────╮
+       │   SHIP   │
+       ╰────┬─────╯
+            ↓
+       ╭──────────╮
+       │ IMPROVE  │
+       ╰────┬─────╯
+            │
+            └───────────────↻
 
-</div>---
-
-🌌 CURRENTLY EXPLORING
-
-<div align="center">🚀 Area| 🔥 Status
-Python| 🟢 Building
-SQL| 🟢 Building
-Data Analytics| 🟢 Active
-Power BI| 🟢 Active
-Machine Learning| 🟡 Learning
-Generative AI| 🟡 Exploring
-RAG| 🟡 Exploring
-Agentic AI| 🟡 Exploring
+IDEA → BUILD → BREAK → FIX → SHIP → REPEAT
 
 </div>---
 
-📊 GITHUB ACTIVITY
+🛰️ CURRENT MISSION
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Soumo444&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FF7&text_color=FFFFFF"/><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumo444&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=F72585&currStreakLabel=00F7FF"/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumo444&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/></div>---
+<div align="center">"2026"
 
-🐍 THE CONTRIBUTION JOURNEY
-
-<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/></div>---
-
-💡 MY BUILD PHILOSOPHY
-
-<div align="center">Learn less. Build more. Understand deeply.
-
-<br/>«📚 LEARN
-
-🧠 UNDERSTAND
-
-🛠️ BUILD
-
-🐛 BREAK
-
-🔧 FIX
-
-🚀 SHIP
-
-🔁 REPEAT»
+AREA| MISSION
+🐍 Python| Strengthen fundamentals
+🗄️ SQL| Become interview-ready
+📊 Analytics| Build real business projects
+📈 Power BI| Advanced dashboards
+🤖 ML| Build stronger predictive models
+✨ GenAI| Understand modern AI systems
+🔗 RAG| Build retrieval-based applications
+⚙️ Automation| Turn repetitive work into systems
 
 </div>---
 
-🎯 2026 → 2027 ROADMAP
+🧠 LEARNING STATUS
 
-2026
- │
- ├── 📊 Master Data Analytics
- │
- ├── 🐍 Strengthen Python
- │
- ├── 🗄️ Improve SQL
- │
- ├── 📈 Build Advanced Dashboards
- │
- └── 🤖 Start Serious ML Projects
- │
- ▼
-2027
- │
- ├── 🧠 Deepen AI / ML
- │
- ├── ⚡ Generative AI
- │
- ├── 🔗 RAG Systems
- │
- ├── 🤖 AI Agents
- │
- └── 🚀 Build Real-World AI Projects
+PYTHON             ███████████████░░░  BUILDING
+SQL                ██████████████░░░░  BUILDING
+DATA ANALYTICS     ████████████████░░  ACTIVE
+POWER BI           ███████████████░░░  ACTIVE
+MACHINE LEARNING   ███████████░░░░░░░  LEARNING
+GENERATIVE AI      ████████░░░░░░░░░░  EXPLORING
+RAG                ██████░░░░░░░░░░░░  EXPLORING
+AGENTIC AI         █████░░░░░░░░░░░░░  EXPLORING
 
 ---
 
-🏆 THE GOAL
+📡 GITHUB TELEMETRY
 
-<div align="center">From Data Analyst
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Soumo444&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050A12&title_color=00F7FF&icon_color=7B2FF7&text_color=FFFFFF"/><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumo444&theme=tokyonight&hide_border=true&background=050A12&ring=00F7FF&fire=F72585&currStreakLabel=00F7FF"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumo444&layout=compact&hide_border=true&theme=tokyonight&bg_color=050A12&title_color=00F7FF&text_color=FFFFFF"/></div>---
+
+🐍 CONTRIBUTION SIGNAL
+
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/></div>---
+
+💭 ONE THING I BELIEVE
+
+<div align="center">A project doesn't need to be huge.
+
+It needs to be real.
+
+<br>"LEARN SOMETHING"
 
 ↓
 
-to AI / ML Builder
+"BUILD SOMETHING"
 
 ↓
 
-to Someone Who Builds Things People Actually Use. 🚀
+"MAKE IT BETTER"
 
-<br/>No shortcuts.
-No pretending.
-Just learning, building and improving.
+↓
+
+"SHOW THE WORLD"
 
 </div>---
 
-🤝 LET'S CONNECT
+🧪 EXPERIMENT ZONE
+
+<div align="center">«Currently experimenting with ideas that connect
+DATA + CODE + AI.»
+
+<br>"📊 DATA"
+
++
+
+"🐍 PYTHON"
+
++
+
+"🤖 AI"
+
+=
+
+"🚀 SOMETHING USEFUL"
+
+</div>---
+
+🏁 LONG-TERM TARGET
+
+<div align="center">DATA ANALYST
+     ↓
+PYTHON DEVELOPER
+     ↓
+ML BUILDER
+     ↓
+AI ENGINEER
+     ↓
+BUILD SYSTEMS THAT MATTER
+
+<br>Not chasing titles.
+
+Building capability.
+
+</div>---
+
+🤝 CONNECT
 
 <div align="center"><a href="https://github.com/Soumo444">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Soumo444-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><br/><br/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><br><br>
 
-⭐ If you find something interesting here, feel free to explore my repositories.
+⭐ Explore the repositories.
 
-Thanks for visiting my corner of GitHub. 👋
+🧠 Learn from the experiments.
 
-</div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,20:7B2FF7,40:00C6FF,60:2C5364,80:203A43,100:050A12&height=150&section=footer"/>
+🚀 Watch the journey evolve.
+
+<br>Thanks for visiting my digital workspace. 👋
+
+</div><!-- ═══════════════════════════════════════════════════════════ --><!--                         FOOTER                              --><!-- ═══════════════════════════════════════════════════════════ --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,25:7B2FF7,50:00C6FF,75:203A43,100:030712&height=180&section=footer"/>
