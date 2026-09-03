@@ -1,328 +1,239 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,20:203A43,40:2C5364,60:00C6FF,80:7B2FF7,100:F72585&height=300&section=header&text=Soumojit%20Sarkar&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=52&descSize=20&descColor=E8F9FF"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumojit+Sarkar;Turning+Data+Into+Stories+%F0%9F%93%8A;Building+With+Python+%F0%9F%90%8D;Learning+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+Today+For+The+Future+%F0%9F%9A%80"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/soumo-sarkar-a72496372/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center"><!-- ═══════════════════════════════════════════════════════════════ --><!--                         HERO SECTION                           --><!-- ═══════════════════════════════════════════════════════════════ --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A12,20:0F2027,40:203A43,60:00C6FF,80:7B2FF7,100:F72585&height=320&section=header&text=SOUMOJIT%20SARKAR&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=DATA%20%7C%20PYTHON%20%7C%20AI%20%2F%20ML&descAlignY=53&descSize=20&descColor=E8F9FF"/><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=00F7FF&center=true&vCenter=true&width=850&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Soumojit;I+Turn+Raw+Data+Into+Useful+Insights+%F0%9F%93%8A;I+Build+With+Python+%F0%9F%90%8D;I+Explore+AI+%26+Machine+Learning+%F0%9F%A4%96;I+Learn.+Build.+Break.+Fix.+Repeat.+%F0%9F%9A%80" alt="Typing SVG"/><br/><a href="https://github.com/Soumo444">
+<img src="https://img.shields.io/badge/GitHub-Soumo444-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:soumo0155@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/soum077/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://github.com/Soumo444">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><br/><br/>
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Soumo444&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge"/></div>---
 
-<img src="https://komarev.com/ghpvc/?username=Soumo444&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Soumo444?label=Followers&style=for-the-badge&color=7B2FF7"/>
-<img src="https://img.shields.io/github/stars/Soumo444?label=Stars&style=for-the-badge&color=F72585"/>
+⚡ WHO AM I?
 
-</div>
-
-<br/>
-
-<div align="center">
-
-## 💭 Entrepreneur Mindset
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-### 🚀 Build. Learn. Fail. Improve. Repeat.
-
-</div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-```python
 class Soumojit:
+
     def __init__(self):
         self.name = "Soumojit Sarkar"
         self.role = "Data Analyst | Python Developer"
-        self.location = "India 🇮🇳"
+        self.interests = ["Data", "AI", "Machine Learning", "Automation"]
+        self.current_mode = "Learning → Building → Improving"
 
-        self.focus = [
-            "Data Analytics",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Business Intelligence",
-        ]
+    def mission(self):
+        return "Turn data into decisions and ideas into working projects."
 
-        self.learning = [
-            "Advanced SQL",
-            "Machine Learning",
-            "Scikit-learn",
-            "XGBoost",
-            "Power BI",
-        ]
+    def mindset(self):
+        return "Don't just learn the technology. Build with it."
 
-        self.mindset = "Learn. Build. Improve. 🚀"
-
-    def introduce(self):
-        return "Turning data into meaningful insights."
-
-    def future_goal(self):
-        return "Become a professional AI/ML Engineer."
-
-
-me = Soumojit()
-print(me.introduce())
-print(me.future_goal())
-```
-
-**🔭 Currently working on**
-- 📊 Real-world **Data Analytics** projects
-- 🐍 Python-based applications
-- 📈 Interactive **Power BI** dashboards
-- 🗄️ SQL & MySQL data projects
-- 🤖 Machine Learning projects
-- 🧠 Exploring Artificial Intelligence
-
-> **🎯 Mission —** Turn data into decisions, ideas into products, and learning into impact.
-
-<br clear="right"/>
+«I’m not trying to know everything.
+I’m trying to build something better every day. 🚀»
 
 ---
 
-## ⚡ Tech Stack
+🧠 MY TECH STACK
 
-<div align="center">
+<div align="center">📊 Data & Analytics
 
-**Development**
+<img src="https://skillicons.dev/icons?i=python,mysql,excel" /><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter&perline=6"/>
-
-<br/><br/>
-
-**Data & Analytics**
-
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>🤖 AI / ML
 
-<br/><br/>
-
-**AI / Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&perline=4"/>
-
-<br/><br/>
-
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-0B6E4F?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-7B2FF7?style=for-the-badge&logo=ai&logoColor=white"/>🛠️ Development
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter,streamlit" /></div>---
+
+🚀 WHAT I'M BUILDING
+
+<table>
+<tr>
+<td width="50%">📈 Data Analytics
+
+Turning messy datasets into:
+
+- Clean data pipelines
+- Exploratory analysis
+- Business insights
+- Interactive dashboards
+- Data-driven decisions
+
+</td><td width="50%">🤖 AI / ML
+
+Currently exploring:
+
+- Machine Learning
+- Predictive Analytics
+- Generative AI
+- RAG
+- AI-powered applications
+- Intelligent automation
+
+</td>
+</tr>
+</table>---
+
+🔥 FEATURED PROJECT
+
+<div align="center">🎯 Customer Churn — Business Analytics & ML
+
+From raw data → analysis → prediction → dashboard
+
+</div>🔍 Workflow
+
+RAW DATA
+   ↓
+DATA CLEANING
+   ↓
+EXPLORATORY DATA ANALYSIS
+   ↓
+SQL ANALYSIS
+   ↓
+MACHINE LEARNING
+   ↓
+MODEL EVALUATION
+   ↓
+POWER BI DASHBOARD
+   ↓
+BUSINESS INSIGHTS
+
+📊 Model Performance
+
+Metric| Score
+🎯 Accuracy| 90%
+🔎 Precision| 78%
+📡 Recall| 74%
+⚖️ F1 Score| 76%
+📈 ROC-AUC| 0.86
+
+<div align="center"><a href="https://github.com/Soumo444">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>---
+
+🧩 HOW I THINK
+
+<div align="center">         DATA
+          │
+          ▼
+      UNDERSTAND
+          │
+          ▼
+       ANALYZE
+          │
+          ▼
+       BUILD 🛠️
+          │
+          ▼
+      TEST & LEARN
+          │
+          ▼
+       IMPROVE 🔥
+          │
+          └──────────────► REPEAT
+
+</div>---
+
+🌌 CURRENTLY EXPLORING
+
+<div align="center">🚀 Area| 🔥 Status
+Python| 🟢 Building
+SQL| 🟢 Building
+Data Analytics| 🟢 Active
+Power BI| 🟢 Active
+Machine Learning| 🟡 Learning
+Generative AI| 🟡 Exploring
+RAG| 🟡 Exploring
+Agentic AI| 🟡 Exploring
+
+</div>---
+
+📊 GITHUB ACTIVITY
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Soumo444&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FF7&text_color=FFFFFF"/><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumo444&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=F72585&currStreakLabel=00F7FF"/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumo444&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/></div>---
+
+🐍 THE CONTRIBUTION JOURNEY
+
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/></div>---
+
+💡 MY BUILD PHILOSOPHY
+
+<div align="center">Learn less. Build more. Understand deeply.
+
+<br/>«📚 LEARN
+
+🧠 UNDERSTAND
+
+🛠️ BUILD
+
+🐛 BREAK
+
+🔧 FIX
+
+🚀 SHIP
+
+🔁 REPEAT»
+
+</div>---
+
+🎯 2026 → 2027 ROADMAP
+
+2026
+ │
+ ├── 📊 Master Data Analytics
+ │
+ ├── 🐍 Strengthen Python
+ │
+ ├── 🗄️ Improve SQL
+ │
+ ├── 📈 Build Advanced Dashboards
+ │
+ └── 🤖 Start Serious ML Projects
+ │
+ ▼
+2027
+ │
+ ├── 🧠 Deepen AI / ML
+ │
+ ├── ⚡ Generative AI
+ │
+ ├── 🔗 RAG Systems
+ │
+ ├── 🤖 AI Agents
+ │
+ └── 🚀 Build Real-World AI Projects
 
 ---
 
-## 🧠 Learning Roadmap
+🏆 THE GOAL
 
-<div align="center">
+<div align="center">From Data Analyst
 
-```mermaid
-graph TD
-    A[📊 Data Analytics] --> B[🐍 Python]
-    B --> C[🤖 Machine Learning]
-    C --> D[🧠 Artificial Intelligence]
-    D --> E[🚀 AI Engineer]
+↓
 
-    style A fill:#0F2027,stroke:#00C6FF,color:#fff
-    style B fill:#203A43,stroke:#00C6FF,color:#fff
-    style C fill:#2C5364,stroke:#7B2FF7,color:#fff
-    style D fill:#7B2FF7,stroke:#F72585,color:#fff
-    style E fill:#F72585,stroke:#fff,color:#fff
-```
+to AI / ML Builder
 
-</div>
+↓
 
-| 🧩 Area | 🚀 Skills |
-|---|---|
-| 🐍 Programming | Python |
-| 🗄️ Database | SQL • MySQL |
-| 📊 Analytics | Pandas • NumPy |
-| 📈 Visualization | Power BI • Matplotlib • Excel |
-| 🤖 ML | Scikit-learn • XGBoost |
-| 🧠 AI | Machine Learning • AI Applications |
-| 🛠️ Workflow | EDA • Feature Engineering • Model Evaluation |
+to Someone Who Builds Things People Actually Use. 🚀
 
----
+<br/>No shortcuts.
+No pretending.
+Just learning, building and improving.
 
-## 📚 Machine Learning Toolbox
+</div>---
 
-<div align="center">
+🤝 LET'S CONNECT
 
-`Linear Regression` `Logistic Regression` `Decision Tree` `Random Forest`
-`Gradient Boosting` `XGBoost` `KNN` `SVM` `Naive Bayes` `K-Means`
+<div align="center"><a href="https://github.com/Soumo444">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><br/><br/>
 
-</div>
+⭐ If you find something interesting here, feel free to explore my repositories.
 
-<div align="center">
+Thanks for visiting my corner of GitHub. 👋
 
-```mermaid
-flowchart LR
-    A[Data Collection] --> B[Data Cleaning]
-    B --> C[EDA]
-    C --> D[Feature Engineering]
-    D --> E[Model Training]
-    E --> F[Model Evaluation]
-    F --> G[Hyperparameter Tuning]
-    G --> H[Deployment]
-    H --> I[🚀 Real-World AI App]
-```
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Soumo444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumo444&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Soumo444&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumo444&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Soumo444/Soumo444/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Soumo444&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-## 📈 Growth Journey
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[💻 Coding] --> B[📊 Data]
-    B --> C[📈 Insights]
-    C --> D[🤖 ML]
-    D --> E[🧠 AI]
-    E --> F[🚀 Products]
-    F --> A
-
-    style A fill:#0F2027,stroke:#00C6FF,color:#fff
-    style B fill:#203A43,stroke:#00C6FF,color:#fff
-    style C fill:#2C5364,stroke:#00C6FF,color:#fff
-    style D fill:#2C5364,stroke:#7B2FF7,color:#fff
-    style E fill:#7B2FF7,stroke:#F72585,color:#fff
-    style F fill:#F72585,stroke:#fff,color:#fff
-```
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-<div align="center">
-
-| Status | Goal |
-|:---:|---|
-| 🟢 | Strengthen Python |
-| 🟢 | Master SQL |
-| 🟢 | Build Data Analytics Projects |
-| 🟢 | Create Power BI Dashboards |
-| 🟡 | Master Machine Learning |
-| 🟡 | Learn Advanced Feature Engineering |
-| 🟡 | Build ML APIs |
-| 🔵 | Explore Deep Learning |
-| 🔵 | Build AI Applications |
-| 🔵 | Contribute to Open Source |
-
-**Legend:** 🟢 In Progress &nbsp;|&nbsp; 🟡 Up Next &nbsp;|&nbsp; 🔵 On the Horizon
-
-</div>
-
----
-
-## 💡 Philosophy
-
-<div align="center">
-
-### `"Don't just learn technology. Build with it."`
-
-**💻 Learn → 🛠️ Build → 🐛 Fail → 🔧 Debug → 📈 Improve → 🚀 Repeat**
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/soumo-sarkar-a72496372/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:soumo0155@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-soumo0155%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/soum077/">
-  <img src="https://img.shields.io/badge/Instagram-@soum077-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### ⭐ If you like my work, consider starring my repositories!
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=800&height=45&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing;%F0%9F%9A%80+The+Best+Projects+Are+Still+Ahead!"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,25:7B2FF7,50:0072FF,75:00C6FF,100:0F2027&height=160&section=footer"/>
-
-</div>
-
-<!--
-SNAKE SETUP:
-The snake image requires a GitHub Action to generate your contribution animation.
-After configuring the action, this URL should work:
-https://raw.githubusercontent.com/Soumo444/Soumo444/output/github-contribution-grid-snake-dark.svg
-Make sure your repository is named: Soumo444/Soumo444
-
-ACTIVITY GRAPH:
-github-readme-activity-graph works out of the box for public repos, no setup needed.
--->
+</div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,20:7B2FF7,40:00C6FF,60:2C5364,80:203A43,100:050A12&height=150&section=footer"/>
