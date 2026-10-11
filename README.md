@@ -1,30 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:022C22,45:047857,100:10B981&height=300&section=header&text=Soumojit%20Sarkar&fontSize=58&fontColor=ECFDF5&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Business%20Analytics&descSize=18&descAlignY=60&descColor=A7F3D0"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:022C22,45:047857,100:10B981&height=300&section=header&text=Soumojit%20Sarkar&fontSize=58&fontColor=ECFDF5&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Business%20Analytics&descSize=18&descAlignY=60&descColor=A7F3D0" alt="Soumojit Sarkar"/>
 
 <a href="https://github.com/Soumo444">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=34D399&center=true&vCenter=true&width=820&height=50&lines=Turning+raw+data+into+decisions;Analyst+mindset.+Data+scientist+toolkit.;Building+ML+models+that+solve+business+problems;Exploring+GenAI%2C+RAG+%26+AI+agents"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=34D399&center=true&vCenter=true&width=820&height=50&lines=Turning+raw+data+into+decisions;Analyst+mindset.+Data+scientist+toolkit.;Building+ML+models+that+solve+business+problems;Exploring+GenAI%2C+RAG+and+AI+agents" alt="Typing animation"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Data%20Science%20Roles-10B981?style=for-the-badge&labelColor=022C22"/>
-<img src="https://img.shields.io/badge/Based%20in-Kolkata%2C%20India-34D399?style=for-the-badge&labelColor=022C22"/>
-<img src="https://komarev.com/ghpvc/?username=Soumo444&label=Profile%20Views&color=10B981&style=for-the-badge&labelColor=022C22"/>
+🟢 **Open to data science roles** &nbsp;&nbsp;·&nbsp;&nbsp; 📍 **Kolkata, India** &nbsp;&nbsp;·&nbsp;&nbsp; 🐍 **Python · SQL · ML**
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/soumojit444/"><img src="https://img.shields.io/badge/LinkedIn-Connect-047857?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:soumo0155@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-10B981?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://customer-churn-business-analysis-vtb7gvwpkvhdrtjpddnz62.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-Churn%20App-34D399?style=for-the-badge&logo=streamlit&logoColor=022C22"/></a>
+[**🔗 LinkedIn**](https://www.linkedin.com/in/soumojit444/) &nbsp;&nbsp;|&nbsp;&nbsp; [**✉️ Email**](mailto:soumo0155@gmail.com) &nbsp;&nbsp;|&nbsp;&nbsp; [**🚀 Live Churn App**](https://customer-churn-business-analysis-vtb7gvwpkvhdrtjpddnz62.streamlit.app/) &nbsp;&nbsp;|&nbsp;&nbsp; [**📂 Projects**](#-featured-projects)
 
-<br/><br/>
+<br/>
 
 **[About](#-about)** &nbsp;·&nbsp; **[Journey](#-journey)** &nbsp;·&nbsp; **[Skills](#-skills)** &nbsp;·&nbsp; **[Projects](#-featured-projects)** &nbsp;·&nbsp; **[Stats](#-github-activity)** &nbsp;·&nbsp; **[Connect](#-lets-connect)**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header" width="100%" alt=""/>
 
 ## 👤 About
 
@@ -47,7 +43,7 @@ class DataScientist:
 
 I started in **data analytics**, which gave me strong instincts for business questions, SQL and dashboards. I'm now building on that foundation with **machine learning and data science**: predictive modeling, evaluation, and deployable apps. I care less about notebooks that only run once and more about work a business can actually use.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header" width="100%" alt=""/>
 
 ## 🛣️ Journey
 
@@ -57,7 +53,7 @@ I started in **data analytics**, which gave me strong instincts for business que
 <td align="center" width="33%" valign="top">
 
 ### 📊 Analyst
-<img src="https://img.shields.io/badge/FOUNDATION-10B981?style=flat-square&labelColor=022C22"/>
+**`FOUNDATION`**
 
 SQL · Excel · Power BI<br/>
 EDA · KPIs · Dashboards<br/>
@@ -67,7 +63,7 @@ Business storytelling
 <td align="center" width="33%" valign="top">
 
 ### 🧪 Data Scientist
-<img src="https://img.shields.io/badge/CURRENT%20FOCUS-34D399?style=flat-square&labelColor=022C22"/>
+**`CURRENT FOCUS`**
 
 Python · Scikit-Learn<br/>
 Classification · Evaluation<br/>
@@ -77,7 +73,7 @@ Feature engineering · Apps
 <td align="center" width="33%" valign="top">
 
 ### 🤖 AI / ML Enthusiast
-<img src="https://img.shields.io/badge/EXPLORING-6EE7B7?style=flat-square&labelColor=022C22"/>
+**`EXPLORING`**
 
 Generative AI · LLM apps<br/>
 RAG pipelines<br/>
@@ -105,42 +101,50 @@ flowchart LR
     style F fill:#064E3B,stroke:#34D399,color:#ECFDF5
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header" width="100%" alt=""/>
 
 ## 🧰 Skills
 
 <div align="center">
 
-**Languages & Data**
+<img src="https://skillicons.dev/icons?i=py,mysql,pandas,numpy,sklearn,fastapi,powerbi,git,github,vscode,jupyter&theme=dark&perline=11" alt="Skill icons"/>
 
-<img src="https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/SQL-064E3B?style=for-the-badge&logo=mysql&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/Pandas-064E3B?style=for-the-badge&logo=pandas&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/NumPy-064E3B?style=for-the-badge&logo=numpy&logoColor=34D399"/>
+<br/><br/>
 
-**Machine Learning & AI**
+<table>
+<tr>
+<td align="center" width="25%"><b>🐍 Languages & Data</b></td>
+<td align="center" width="25%"><b>🤖 ML & AI</b></td>
+<td align="center" width="25%"><b>📊 BI & Apps</b></td>
+<td align="center" width="25%"><b>🛠️ Tools</b></td>
+</tr>
+<tr>
+<td align="center" valign="top">
 
-<img src="https://img.shields.io/badge/Scikit--Learn-064E3B?style=for-the-badge&logo=scikit-learn&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/Generative%20AI-064E3B?style=for-the-badge&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/RAG-064E3B?style=for-the-badge&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/FastAPI-064E3B?style=for-the-badge&logo=fastapi&logoColor=34D399"/>
+`Python`<br/>`SQL`<br/>`Pandas`<br/>`NumPy`
 
-**Visualization & Apps**
+</td>
+<td align="center" valign="top">
 
-<img src="https://img.shields.io/badge/Power%20BI-064E3B?style=for-the-badge&logo=powerbi&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/Excel-064E3B?style=for-the-badge&logo=microsoftexcel&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/Streamlit-064E3B?style=for-the-badge&logo=streamlit&logoColor=34D399"/>
+`Scikit-Learn`<br/>`Generative AI`<br/>`RAG`<br/>`FastAPI`
 
-**Tools**
+</td>
+<td align="center" valign="top">
 
-<img src="https://img.shields.io/badge/Git-064E3B?style=for-the-badge&logo=git&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/GitHub-064E3B?style=for-the-badge&logo=github&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/VS%20Code-064E3B?style=for-the-badge&logo=visualstudiocode&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/Jupyter-064E3B?style=for-the-badge&logo=jupyter&logoColor=34D399"/>
+`Power BI`<br/>`Excel`<br/>`Streamlit`
+
+</td>
+<td align="center" valign="top">
+
+`Git`<br/>`GitHub`<br/>`VS Code`<br/>`Jupyter`
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header" width="100%" alt=""/>
 
 ## ⭐ Featured Projects
 
@@ -148,47 +152,76 @@ flowchart LR
 
 An end-to-end project: understand why customers leave, predict who is likely to churn, and turn the predictions into a business dashboard.
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Accuracy-90%25-10B981?style=for-the-badge&labelColor=022C22"/>
-<img src="https://img.shields.io/badge/Precision-78%25-10B981?style=for-the-badge&labelColor=022C22"/>
-<img src="https://img.shields.io/badge/Recall-74%25-10B981?style=for-the-badge&labelColor=022C22"/>
-<img src="https://img.shields.io/badge/F1-76%25-10B981?style=for-the-badge&labelColor=022C22"/>
-<img src="https://img.shields.io/badge/ROC--AUC-0.86-34D399?style=for-the-badge&labelColor=022C22"/>
-
-</div>
+```text
+ MODEL PERFORMANCE
+ ─────────────────────────────────────────
+ Accuracy   ██████████████████░░   90%
+ Precision  ████████████████░░░░   78%
+ Recall     ███████████████░░░░░   74%
+ F1 Score   ███████████████░░░░░   76%
+ ROC-AUC    █████████████████░░░   0.86
+```
 
 ```text
-Data → Cleaning → EDA → SQL Analysis → ML Model → Churn Prediction → Power BI Dashboard
+ Data → Cleaning → EDA → SQL Analysis → ML Model → Churn Prediction → Power BI Dashboard
 ```
 
 <div align="center">
 
-<a href="https://github.com/Soumo444/Customer-Churn-Business-Analysis"><img src="https://img.shields.io/badge/📂%20Repository-064E3B?style=for-the-badge&logo=github&logoColor=34D399"/></a>
-<a href="https://customer-churn-business-analysis-vtb7gvwpkvhdrtjpddnz62.streamlit.app/"><img src="https://img.shields.io/badge/▶%20Live%20App-10B981?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+[**📂 Repository**](https://github.com/Soumo444/Customer-Churn-Business-Analysis) &nbsp;&nbsp;|&nbsp;&nbsp; [**▶ Live App**](https://customer-churn-business-analysis-vtb7gvwpkvhdrtjpddnz62.streamlit.app/)
 
 </div>
 
 <br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Soumo444/ecommerce-sales-analytics"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumo444&repo=ecommerce-sales-analytics&bg_color=0D1117&title_color=34D399&text_color=D1FAE5&icon_color=10B981&border_color=134E3A&border_radius=10"/></a>
-<a href="https://github.com/Soumo444/DataCo-Supply-Chain-Analytics"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumo444&repo=DataCo-Supply-Chain-Analytics&bg_color=0D1117&title_color=34D399&text_color=D1FAE5&icon_color=10B981&border_color=134E3A&border_radius=10"/></a>
+### 🛒 E-Commerce Sales & Customer Intelligence
+End-to-end e-commerce analytics pipeline with Python ETL, SQL data models and an interactive Power BI sales dashboard.
 
-<a href="https://github.com/Soumo444/Zomato_Bangalore_Project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumo444&repo=Zomato_Bangalore_Project&bg_color=0D1117&title_color=34D399&text_color=D1FAE5&icon_color=10B981&border_color=134E3A&border_radius=10"/></a>
-<a href="https://github.com/Soumo444/world-26-data-analysis"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumo444&repo=world-26-data-analysis&bg_color=0D1117&title_color=34D399&text_color=D1FAE5&icon_color=10B981&border_color=134E3A&border_radius=10"/></a>
+`Python` `SQL` `Power BI`
 
-</div>
+[**📂 View repository →**](https://github.com/Soumo444/ecommerce-sales-analytics)
 
-| Project | What it explores |
-|:--|:--|
-| 🛒 **E-Commerce Sales & Customer Intelligence** | Revenue performance, product trends, customer behavior, KPI dashboards |
-| 🚚 **DataCo Supply Chain Analytics** | Shipping, delivery, order performance, geography, profitability |
-| 🍽️ **Zomato Bangalore Analysis** | Ratings, cost, location and customer-preference insights |
-| 🌍 **World 26 Data Analysis** | World Cup 2026 player performance statistics and visuals |
+</td>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header"/>
+### 🚚 DataCo Supply Chain Analytics
+Shipping, delivery, order performance, geography and profitability across supply chain operations.
+
+`Python` `EDA` `Analytics`
+
+[**📂 View repository →**](https://github.com/Soumo444/DataCo-Supply-Chain-Analytics)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Zomato Bangalore Analysis
+Restaurant ratings, cost, location and customer-preference insights from Bangalore's dining market.
+
+`Python` `EDA` `Visualization`
+
+[**📂 View repository →**](https://github.com/Soumo444/Zomato_Bangalore_Project)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 World 26 Data Analysis
+World Cup 2026 player performance data turned into statistics and visual insights.
+
+`Python` `Pandas` `Visualization`
+
+[**📂 View repository →**](https://github.com/Soumo444/world-26-data-analysis)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header" width="100%" alt=""/>
 
 ## 🎯 Learning Roadmap
 
@@ -210,28 +243,20 @@ Data → Cleaning → EDA → SQL Analysis → ML Model → Churn Prediction →
 - [ ] Explore AI agent systems
 - [ ] Keep every repository clean and production-style
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header" width="100%" alt=""/>
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soumo444&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=10B981&text_color=D1FAE5&ring_color=10B981&border_radius=10"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumo444&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=D1FAE5&border_radius=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soumo444&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=10B981&text_color=D1FAE5&ring_color=10B981&border_radius=10" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumo444&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=D1FAE5&border_radius=10" alt="Top languages"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumo444&hide_border=true&background=0D1117&ring=10B981&fire=34D399&currStreakLabel=34D399&currStreakNum=D1FAE5&sideNums=D1FAE5&sideLabels=6EE7B7&dates=6EE7B7&border_radius=10"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Soumo444&bg_color=0D1117&color=34D399&line=10B981&point=FFFFFF&area=true&area_color=10B981&hide_border=true&radius=10"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumo444/Soumo444/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soumo444/Soumo444/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Soumo444/Soumo444/output/github-snake-dark.svg"/>
-</picture>
+<img height="170" src="https://streak-stats.demolab.com/?user=Soumo444&hide_border=true&background=0D1117&ring=10B981&fire=34D399&currStreakLabel=34D399&currStreakNum=D1FAE5&sideNums=D1FAE5&sideLabels=6EE7B7&dates=6EE7B7&border_radius=10" alt="GitHub streak"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header" width="100%" alt=""/>
 
 ## 🤝 Let's Connect
 
@@ -239,12 +264,10 @@ Data → Cleaning → EDA → SQL Analysis → ML Model → Churn Prediction →
 
 I'm open to **data science, machine learning and analytics** opportunities, and always happy to talk about data.
 
-<a href="https://github.com/Soumo444"><img src="https://img.shields.io/badge/GitHub-Soumo444-022C22?style=for-the-badge&logo=github&logoColor=34D399"/></a>
-<a href="https://www.linkedin.com/in/soumojit444/"><img src="https://img.shields.io/badge/LinkedIn-Soumojit%20Sarkar-047857?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:soumo0155@gmail.com"><img src="https://img.shields.io/badge/Email-soumo0155%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[**GitHub**](https://github.com/Soumo444) &nbsp;&nbsp;|&nbsp;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/soumojit444/) &nbsp;&nbsp;|&nbsp;&nbsp; [**soumo0155@gmail.com**](mailto:soumo0155@gmail.com)
 
 <sub>Thanks for visiting ⭐ &nbsp; Data → Insight → Intelligence</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:047857,100:022C22&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:047857,100:022C22&height=130&section=footer" width="100%" alt=""/>
