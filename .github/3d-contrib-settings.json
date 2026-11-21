@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-3d-contrib/profile-emerald.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#D1FAE5",
+  "strongColor": "#34D399",
+  "weakColor": "#6EE7B7",
+  "radarColor": "#10B981",
+  "growingAnimation": true,
+  "contribColors": ["#12211c", "#064e3b", "#047857", "#10b981", "#34d399"]
+}

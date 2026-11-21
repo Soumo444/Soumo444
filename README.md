@@ -38,6 +38,39 @@ class Soumojit:
         return "Understand the business → clean the data → model it → explain it → ship it."
 ```
 
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+## 11
+
+<sub>PROJECTS BUILT</sub>
+
+</td>
+<td align="center" width="25%">
+
+## 5
+
+<sub>LIVE DEMOS</sub>
+
+</td>
+<td align="center" width="25%">
+
+## 97.4%
+
+<sub>BEST MODEL ACCURACY</sub>
+
+</td>
+<td align="center" width="25%">
+
+## 706
+
+<sub>RAG CHUNKS INDEXED</sub>
+
+</td>
+</tr>
+</table>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=2&section=header" alt=""/>
 
 ## What I'm Building
@@ -222,11 +255,11 @@ Player, team, position, passing, attacking, defensive, and market-value analysis
 
 <br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Soumo444&bg_color=0D1117&color=34D399&line=10B981&point=D1FAE5&area=true&area_color=10B981&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph"/>
+<img width="100%" src="./profile-3d-contrib/profile-emerald.svg" alt="3D contribution graph"/>
 
 <br/>
 
-<img width="96%" src="https://raw.githubusercontent.com/Soumo444/Soumo444/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+<sub>3D contribution graph · rebuilt every night</sub>
 
 </div>
 
