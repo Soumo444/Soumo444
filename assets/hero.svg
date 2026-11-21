@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Soumojit Sarkar — Data Science, Machine Learning, GenAI</title>
+  <desc id="heroDesc">Blueprint-style banner: name, tagline, location, and a rising data chart.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050B14"/>
+      <stop offset="0.5" stop-color="#07111D"/>
+      <stop offset="1" stop-color="#0A1524"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-width="1" opacity="0.45"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <circle cx="1128" cy="96" r="110" fill="#22D3EE" opacity="0.07"/>
+
+  <path d="M48 72V48h24" fill="none" stroke="#38BDF8" stroke-width="1.5" opacity="0.45"/>
+  <path d="M1152 268v24h-24" fill="none" stroke="#38BDF8" stroke-width="1.5" opacity="0.45"/>
+
+  <text x="72" y="92" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" font-weight="600" letter-spacing="4" fill="#38BDF8">DATA SCIENCE / MACHINE LEARNING / GENAI</text>
+  <text x="70" y="168" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="62" font-weight="700" fill="#F8FAFC">Soumojit Sarkar</text>
+  <text x="72" y="211" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18.5" fill="#A8BED6">Turning raw data into decisions — and models into products.</text>
+
+  <circle cx="78" cy="245" r="4" fill="#22D3EE"/>
+  <text x="92" y="250" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#7E96B3">Kolkata, India</text>
+  <text x="196" y="250" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#33506F">|</text>
+  <text x="214" y="250" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#7E96B3">Open to Data Science roles</text>
+
+  <line x1="664" y1="88" x2="664" y2="252" stroke="#17324F" stroke-width="1"/>
+
+  <path d="M700 240 L748 226 L796 232 L844 200 L892 208 L940 176 L988 184 L1036 146 L1084 120 L1128 96 L1128 268 L700 268 Z" fill="url(#area)"/>
+  <polyline points="700,240 748,226 796,232 844,200 892,208 940,176 988,184 1036,146 1084,120 1128,96" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="700" cy="240" r="3.5" fill="#22D3EE" opacity="0.9"/>
+  <circle cx="748" cy="226" r="3.5" fill="#22D3EE" opacity="0.9"/>
+  <circle cx="796" cy="232" r="3.5" fill="#22D3EE" opacity="0.9"/>
+  <circle cx="844" cy="200" r="3.5" fill="#22D3EE" opacity="0.9"/>
+  <circle cx="892" cy="208" r="3.5" fill="#22D3EE" opacity="0.9"/>
+  <circle cx="940" cy="176" r="3.5" fill="#22D3EE" opacity="0.9"/>
+  <circle cx="988" cy="184" r="3.5" fill="#22D3EE" opacity="0.9"/>
+  <circle cx="1036" cy="146" r="3.5" fill="#22D3EE" opacity="0.9"/>
+  <circle cx="1084" cy="120" r="3.5" fill="#22D3EE" opacity="0.9"/>
+
+  <line x1="1128" y1="96" x2="1128" y2="268" stroke="#22D3EE" stroke-width="1" stroke-dasharray="4 6" opacity="0.35"/>
+  <circle cx="1128" cy="96" r="10" fill="#22D3EE" opacity="0.18"/>
+  <circle cx="1128" cy="96" r="5" fill="#22D3EE" filter="url(#glow)"/>
+  <circle cx="1128" cy="96" r="2" fill="#F8FAFC"/>
+
+  <line x1="700" y1="268" x2="1128" y2="268" stroke="#17324F" stroke-width="1"/>
+
+  <rect y="336" width="1200" height="4" fill="url(#bar)"/>
+</svg>

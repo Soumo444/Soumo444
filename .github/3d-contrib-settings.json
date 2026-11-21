@@ -1,11 +1,11 @@
 {
   "type": "normal",
-  "fileName": "profile-emerald.svg",
-  "backgroundColor": "#0d1117",
-  "foregroundColor": "#D1FAE5",
-  "strongColor": "#34D399",
-  "weakColor": "#6EE7B7",
-  "radarColor": "#10B981",
+  "fileName": "profile-blueprint.svg",
+  "backgroundColor": "#0A1524",
+  "foregroundColor": "#E2E8F0",
+  "strongColor": "#22D3EE",
+  "weakColor": "#7DD3FC",
+  "radarColor": "#6366F1",
   "growingAnimation": true,
-  "contribColors": ["#1b3a30", "#064e3b", "#047857", "#10b981", "#34d399"]
+  "contribColors": ["#16324F", "#0E4A6B", "#0E7490", "#0891B2", "#22D3EE"]
 }
